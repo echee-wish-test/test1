@@ -1,2 +1,13 @@
-hello:
-    rule: 10
+- rule:
+    - users: 
+      - echee
+      - tcui
+    - phrases: 
+      - new
+  - rule:
+    - users: 
+      - echee
+      - bob
+    - phrases: 
+      - what
+      - who
