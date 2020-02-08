@@ -4,10 +4,10 @@
       - tcui
     - phrases: 
       - new
-  - rule:
+- rule:
     - users: 
-      - echee
-      - bob
+        - echee
+        - bob
     - phrases: 
-      - what
-      - who
+        - what
+        - who
