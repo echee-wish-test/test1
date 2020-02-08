@@ -1,14 +1,15 @@
-- rules:
-    -
-      - users: 
-        - echee
-        - tcui
-      - phrases: 
-        - new
-    -  
-      - users: 
-        - echee
-        - bob
-      - phrases: 
-        - what
-        - who
+rules:
+    - 
+     users: 
+      - echee
+      - tcui
+     phrases: 
+      - new
+    - 
+     users: 
+      - echee2
+      - tcui2
+     phrases: 
+      - new2
+      - hello2
+  
