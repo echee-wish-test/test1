@@ -5,11 +5,5 @@ rules:
       - tcui
      phrases: 
       - new
-    - 
-     users: 
-      - echee2
-      - tcui2
-     phrases: 
-      - new2
-      - hello2
+
   
