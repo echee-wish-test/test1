@@ -2,7 +2,6 @@ rules:
     - 
      users: 
       - echee
-      - tcui
      phrases: 
       - new
 
